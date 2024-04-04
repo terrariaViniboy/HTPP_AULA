@@ -1,0 +1,49 @@
+a{
+    color: #fff;
+    text-decoration: none;
+    
+}
+
+body{
+    background-color:rgb(12, 12, 78); ;
+}
+
+#desc {
+
+    text-align:start;
+    color:aliceblue;
+    font-size: 20px;
+    font-style:oblique ;
+    border-left: 4px solid #fff;
+
+}
+h3 {
+
+    font-size: 21px;
+    color:aliceblue;
+}
+#ses{
+
+    color: aliceblue;
+    font-size: 19px;
+}
+#info{
+color: aliceblue;
+font-size: 20px;
+
+}
+h2{
+
+color: aliceblue;
+}
+h1{
+    color: aliceblue;
+    font-size: 22px
+}
+th{
+    color: #fff;
+
+}
+td{
+    color:#fff;
+}
