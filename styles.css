@@ -6,6 +6,7 @@ a{
 
 body{
     background-color:rgb(12, 12, 78); ;
+    background-image: ;
 }
 
 #desc {
@@ -15,12 +16,14 @@ body{
     font-size: 20px;
     font-style:oblique ;
     border-left: 4px solid #fff;
+    line-height: normal;
 
 }
 h3 {
 
     font-size: 21px;
     color:aliceblue;
+    text-shadow: #070707;
 }
 #ses{
 
@@ -30,6 +33,8 @@ h3 {
 #info{
 color: aliceblue;
 font-size: 20px;
+font-weight: bolder
+
 
 }
 h2{
@@ -39,6 +44,7 @@ color: aliceblue;
 h1{
     color: aliceblue;
     font-size: 22px
+    
 }
 th{
     color: #fff;
@@ -46,4 +52,10 @@ th{
 }
 td{
     color:#fff;
+}
+table{
+    width: 70%;
+}
+tr{
+   background-color:black;
 }

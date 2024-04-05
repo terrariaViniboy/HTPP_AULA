@@ -1,0 +1,13 @@
+body{
+    background-color:darkslategray;
+}
+#form{
+
+    background-color: rgb(56, 56, 110);
+}
+fieldset{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    text-shadow:20pix;
+}
